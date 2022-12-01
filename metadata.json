@@ -1,0 +1,6 @@
+{
+  "name": "LNG Blog",
+  "identifier": "com.iamatthijs.lng-blog",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

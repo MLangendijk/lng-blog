@@ -1,0 +1,14 @@
+{
+  "name": "com.iamatthijs.lng-blog",
+  "description": "LNG Blog",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@lightningjs/sdk": "^5.2.0",
+    "shaka-player": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
